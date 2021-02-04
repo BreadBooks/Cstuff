@@ -1,6 +1,6 @@
 /******************************************************************************
  * CSE 1310-005 Spring 2021 
- * File name: Lab 1 Part 2
+ * File name: Lab 1 Part 1
  * Author : BreadBooks
  * Created on: 1/26/2021
  * UTA Student Name: Brett Boggs
